@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 '''questionList is a list that contains, in parenthesis, each question, accompanied by the correct answer
   which is an string. Raw_Input is a string so it is easier to simply tell the user they are incorrect if they enter a letter or an
 incorrect answer.'''
