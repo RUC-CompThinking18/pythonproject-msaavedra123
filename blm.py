@@ -47,8 +47,3 @@ def blm3():
 
 
 blm3()
-
-
-''' Plan to print names of various police brutality victims names were located in a database from https://www.washingtonpost.com/graphics/national/police-shootings-2017/
-Main article located: https://www.theroot.com/heres-how-many-people-police-killed-in-2017-1821706614 , it summarizes all data but includes links to the main
-sources'''
